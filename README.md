@@ -1,2 +1,5 @@
 # sl-interpreter
-StraightLine Interpreter in Haskell
+
+A StraightLine Interpreter in Haskell
+
+Written with MegaParsec, State Transformer and optionally Lenses
