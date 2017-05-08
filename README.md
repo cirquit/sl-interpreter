@@ -19,3 +19,4 @@ or
 > main
 ```
 
+Here is a fast [introduction to stack](https://github.com/cirquit/ffp-lib).
